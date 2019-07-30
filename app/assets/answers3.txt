@@ -1,0 +1,20 @@
+﻿Element 
+Compound
+Mixture
+Colloid
+Metal 
+Nonmetal
+Metalloid
+Solid
+Element
+Mixture 
+Compound
+Solution
+Protons and electrons
+Electrons
+Neutrons and protons
+Protons, electrons and neutrons 
+More brittle as a solid 
+Better electrical conductors
+More ductile as a solid
+Better conductors of heat

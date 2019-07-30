@@ -1,0 +1,20 @@
+﻿8
+7
+13
+18
+Exactly the same
+Similar
+Different
+Exactly opposite
+Sodium
+Calcium
+Chlorine
+Neon
+Lead, metal
+Platinum, metal
+Selenium, nonmetal
+Antimony, metalloid
+Positive, negative, no charge 
+Negative, no charge, positive
+No charge, positive, negative
+No charge, negative, positive
