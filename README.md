@@ -1,2 +1,3 @@
-# Periodic-Table-Simulated
-Term project of the Algorithms and Programming II (CS 102) course at Bilkent University.
+# Periodic Table Simulated
+## Created with Java and Android.
+### Download app.apk to your android device and you can use it.
